@@ -1,0 +1,5 @@
+i2c.c:10:6:I2C_Init	1
+i2c.c:60:6:I2C_MasterSendData	8
+i2c.c:95:6:I2C_MasterReceiveData	9
+i2c.c:158:6:I2C_Read_Memory	12
+i2c.c:251:6:I2C_Write_Memory	7

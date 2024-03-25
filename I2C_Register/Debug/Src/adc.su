@@ -1,0 +1,5 @@
+C:/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+C:/chip_headers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+../Src/adc.c:11:6:PA4_ADC_Init	8	static
+../Src/adc.c:47:6:Start_Conversion_Single	4	static
+../Src/adc.c:54:10:Adc_Read	4	static
